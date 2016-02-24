@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Root>
+	<Charactor Name="GEEK" HeadNO="1" BodyType="1" PrefabKind="Body_up"/>
+	<Charactor Name="SMARTY" HeadNO="2" BodyType="2" PrefabKind="Leg_up"/>
+	<Charactor Name="RED" HeadNO="3" BodyType="2" PrefabKind="Leg_up"/>
+	<Charactor Name="RANBOW" HeadNO="4" BodyType="3" PrefabKind="Leg_up"/>
+	<Charactor Name="OLD FISH" HeadNO="5" BodyType="2" PrefabKind="Leg_up"/>
+	<Charactor Name="DOCTOR" HeadNO="doc" BodyType="doctor" PrefabKind="Body_up"/>
+	<Charactor Name="BELLY" HeadNO="g1" BodyType="g" PrefabKind="Body_up"/>
+	<Charactor Name="MR SLAVE" HeadNO="g2" BodyType="g" PrefabKind="Body_up"/>
+	<Charactor Name="VIC MICKEY" HeadNO="g3" BodyType="g" PrefabKind="Body_up"/>
+	<Charactor Name="SHANE" HeadNO="g4" BodyType="g" PrefabKind="Body_up"/>
+	<Charactor Name="GORDON" HeadNO="g5" BodyType="g" PrefabKind="Body_up"/>
+	<Charactor Name="PIKMAL" HeadNO="g6" BodyType="g" PrefabKind="Body_up"/>
+	<Charactor Name="DOCTOR SNLAD" HeadNO="g10" BodyType="doctor" PrefabKind="Body_up"/>
+	<Charactor Name="DOCTOR SNLAD_" HeadNO="g10_" BodyType="doctor" PrefabKind="Body_up"/>
+	<Charactor Name="MAD DOCTOR" HeadNO="g12" BodyType="doctor" PrefabKind="Body_up"/>
+	<Charactor Name="COOK" HeadNO="g14" BodyType="1" PrefabKind="Body_up"/>
+</Root>
+
+
+
+
+
+<!--
+	<Charactor Name="GEEK" HeadNO="1" BodyType="1" PrefabKind="Body_up"/>
+	<Charactor Name="SMARTY" HeadNO="2" BodyType="2" PrefabKind="Leg_up"/>
+	<Charactor Name="RED" HeadNO="3" BodyType="2" PrefabKind="Leg_up"/>
+	<Charactor Name="RANBOW" HeadNO="4" BodyType="3" PrefabKind="Leg_up"/>
+	<Charactor Name="OLD FISH" HeadNO="5" BodyType="2" PrefabKind="Leg_up"/>
+	<Charactor Name="DOCTOR" HeadNO="doc" BodyType="doctor" PrefabKind="Body_up"/>
+	<Charactor Name="BELLY" HeadNO="g1" BodyType="g" PrefabKind="Body_up"/>
+	<Charactor Name="MR SLAVE" HeadNO="g2" BodyType="g" PrefabKind="Body_up"/>
+	<Charactor Name="VIC MICKEY" HeadNO="g3" BodyType="g" PrefabKind="Body_up"/>
+	<Charactor Name="SHANE" HeadNO="g4" BodyType="g" PrefabKind="Body_up"/>
+	<Charactor Name="GORDON" HeadNO="g5" BodyType="g" PrefabKind="Body_up"/>
+	<Charactor Name="PIKMAL" HeadNO="g6" BodyType="g" PrefabKind="Body_up"/>
+	<Charactor Name="DOCTOR SNLAD" HeadNO="g10" BodyType="doctor" PrefabKind="Body_up"/>
+	<Charactor Name="DOCTOR SNLAD_" HeadNO="g10_" BodyType="doctor" PrefabKind="Body_up"/>
+	<Charactor Name="MAD DOCTOR" HeadNO="g12" BodyType="doctor" PrefabKind="Body_up"/>
+	<Charactor Name="COOK" HeadNO="g14" BodyType="1" PrefabKind="Body_up"/>
+-->
